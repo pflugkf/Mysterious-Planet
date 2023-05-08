@@ -1,2 +1,2 @@
 # Mysterious-Planet
-ITCS 5232: Advanced Game Development Project
+ITCS 5231: Advanced Game Development Project
